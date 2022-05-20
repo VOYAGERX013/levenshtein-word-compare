@@ -1,6 +1,6 @@
 {
   "name": "word-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Word compare gives you the most closely related words to an input string. If you have a list of strings, word compare can give you the most closely related list elements to a string input.",
   "keywords": [
     "levenshtein",
