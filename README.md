@@ -37,3 +37,6 @@ const similarMovies = word.getClosests(stringInput, movies, 6);
 
 console.log(similarMovies); // The following output is logged: [ 'Matrix', 'Matrix 2', 'Iron man', 'Inception', 'Interstellar', 'Shawshank redemption' ]
 ```
+
+## Authors
+- [@aryaanhegde](https://www.github.com/VOYAGERX013)
