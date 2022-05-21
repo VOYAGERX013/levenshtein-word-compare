@@ -100,11 +100,7 @@ function prepareList(str1, str2) {
         }
     }
 
-    if (list2.length > list1.length) {
-        return [list2, list1];
-    } else {
-        return [list1, list2];
-    }
+    return [list1, list2];
 }
 
 module.exports.getClosests = getClosests;
